@@ -1,0 +1,18 @@
+{
+  "mods": [
+    {
+      "name": "sodium",
+      "version": "0.6.0",
+      "file": "sodium-fabric-mc1.21.4-0.6.0.jar",
+      "url": "https://github.com/CaffeineMC/sodium-fabric/releases/download/mc1.21.4-0.6.0/sodium-fabric-mc1.21.4-0.6.0.jar",
+      "sha256": "abc123..."
+    },
+    {
+      "name": "lithium",
+      "version": "0.12.0",
+      "file": "lithium-fabric-mc1.21.4-0.12.0.jar",
+      "url": "https://github.com/CaffeineMC/lithium-fabric/releases/download/mc1.21.4-0.12.0/lithium-fabric-mc1.21.4-0.12.0.jar",
+      "sha256": "def456..."
+    }
+  ]
+}
